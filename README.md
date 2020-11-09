@@ -24,3 +24,20 @@ cd INSTABOT
 bash INSTABOT.sh
 ```
 ### INSTALACION EN TERMUX
+```
+pkg update
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/bythelink89/INSTABOT.git
+```
+```
+cd INSTABOT
+```
+```
+bash INSTABOT.sh
+```
+### CAPTURAS
+
