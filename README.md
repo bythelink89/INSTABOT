@@ -15,6 +15,9 @@ sudo apt update
 sudo apt install git
 ```
 ```
+sudo apt install openssl
+```
+```
 git clone https://github.com/bythelink89/INSTABOT.git
 ```
 ```
@@ -24,21 +27,24 @@ cd INSTABOT
 bash INSTABOT.sh
 ```
 ### INSTALACION EN TERMUX
-```
-pkg update
-```
-```
-pkg install git
-```
-```
-git clone https://github.com/bythelink89/INSTABOT.git
-```
-```
-cd INSTABOT
-```
-```
-bash INSTABOT.sh
-```
+` pkg up -y`
+
+` pkg install openssl-tool`
+
+` pkg install curl`
+
+` pkg install git`
+
+` git clone https://github.com/bythelink89/INSTABOT.git`
+
+`cd INSTABOT`
+
+` chmod +x INSTABOT.sh`
+
+` termux-wake-lock`
+
+` bash INSTABOT.sh`
+
 ### CAPTURAS
 ![alt text](images/INSTABOT.png)
 ![alt text](images/INSTABOT1.png)
