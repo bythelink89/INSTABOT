@@ -48,3 +48,5 @@ bash INSTABOT.sh
 ### CAPTURAS
 ![alt text](images/INSTABOT.png)
 ![alt text](images/INSTABOT1.png)
+![alt text](images/test1.jpeg)
+![alt text](images/test2.jpeg)
